@@ -16,12 +16,10 @@ namespace Multiple_Inheritance
             Console.WriteLine("Animal");
         }
     }
-
     public interface IFly
     {
        void Fly();
     }
-
     public class DerivedClass : BaseClass, IFly
     {
         public void Eagle()

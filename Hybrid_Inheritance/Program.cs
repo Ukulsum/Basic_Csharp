@@ -40,15 +40,6 @@ namespace Hybrid_Inheritance
             Console.WriteLine("Eagle is hunting");
         }
     }
-
-
-
-
-
-
-
-
-
     internal class Program
     {
         static void Main(string[] args)
